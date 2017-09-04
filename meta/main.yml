@@ -1,6 +1,6 @@
 galaxy_info:
   author: Larry Smith Jr.
-  description: your description
+  description: An [Ansible] role to install [Docker](https://www.docker.com) on [Windows - 2016](https://www.microsoft.com/en-us/cloud-platform/windows-server)
 
   license: license (MIT)
 
